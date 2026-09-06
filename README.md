@@ -44,9 +44,12 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+<img width="1017" height="557" alt="image" src="https://github.com/user-attachments/assets/62d60a11-7e35-4757-b9d8-90e3243ecc6c" />
+<img width="1037" height="581" alt="image" src="https://github.com/user-attachments/assets/8f3cf452-1e87-45d2-8d20-85f932ab43e3" />
+<img width="1082" height="792" alt="image" src="https://github.com/user-attachments/assets/80c77b52-fa9a-4acb-b94e-0ea9bd553cb8" />
 
-### Name:
-### Register Number:
+### Name: SHUBNUM FATHIMA AB
+### Register Number: 212225240147
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
